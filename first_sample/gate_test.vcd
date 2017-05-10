@@ -1,0 +1,162 @@
+$date
+	Wed May 10 17:01:37 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module test $end
+$scope module not_g $end
+$var wire 1 ! input_value $end
+$var wire 1 " output_value $end
+$upscope $end
+$upscope $end
+$scope module test $end
+$scope module and_g $end
+$var wire 1 ! input_a $end
+$var wire 1 # input_b $end
+$var wire 1 $ output_value $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+1"
+0!
+$end
+#5
+0"
+1!
+#10
+1"
+0!
+1#
+#15
+1$
+0"
+1!
+#20
+0$
+1"
+0!
+0#
+#25
+0"
+1!
+#30
+1"
+0!
+1#
+#35
+1$
+0"
+1!
+#40
+0$
+1"
+0!
+0#
+#45
+0"
+1!
+#50
+1"
+0!
+1#
+#55
+1$
+0"
+1!
+#60
+0$
+1"
+0!
+0#
+#65
+0"
+1!
+#70
+1"
+0!
+1#
+#75
+1$
+0"
+1!
+#80
+0$
+1"
+0!
+0#
+#85
+0"
+1!
+#90
+1"
+0!
+1#
+#95
+1$
+0"
+1!
+#100
+0$
+1"
+0!
+0#
+#105
+0"
+1!
+#110
+1"
+0!
+1#
+#115
+1$
+0"
+1!
+#120
+0$
+1"
+0!
+0#
+#125
+0"
+1!
+#130
+1"
+0!
+1#
+#135
+1$
+0"
+1!
+#140
+0$
+1"
+0!
+0#
+#145
+0"
+1!
+#150
+1"
+0!
+1#
+#155
+1$
+0"
+1!
+#160
+0$
+1"
+0!
+0#
+#165
+0"
+1!
+#168
